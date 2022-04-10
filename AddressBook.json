@@ -1,0 +1,32 @@
+{
+"AdressBook":[
+{
+	"FirstName":"Manoj",
+	"LastName":"Thiparpu",
+	"Address":"25-4-710",
+	"City":"Kazipet",
+	"State":"Telangana",
+	"PhoneNumber":"8106529025",
+	"Email":"manojthiparapu@gmail.com"
+},
+{
+
+	"FirstName":"Manu",
+	"LastName" :"Thiparapu",
+	"Address":"25-4-710",
+	"City":"Torento",
+	"State":"Torento",
+	"PhoneNumber":"8978977310",
+	"Email":"manuThiparpu@gmail.com"
+},
+{
+	"FirstName":"Laxmi",
+	"LastName":"Thiparapu",
+	"Address":"25-4-710",
+	"City":"Kazipet",
+	"State":"Telangana",
+	"PhoneNumber":"8008144657",
+	"Email" :"laxmiThiparapu@gmail.com"
+}
+]
+}
